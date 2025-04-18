@@ -1,0 +1,10 @@
+Time_HMS,Time_In_Minutes,Event_Index,Type
+08:06:00,0,1,Flush
+09:06:00,60,2,Flush
+10:06:00,120,3,Flush
+11:06:00,180,4,Flush
+12:06:00,240,5,Flush
+13:06:00,300,6,Flush
+14:06:00,360,7,Flush
+15:06:00,420,8,Flush
+16:06:00,480,9,Flush
